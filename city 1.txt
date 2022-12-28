@@ -1,11 +1,8 @@
-TOTAL LOCATIONS: 23
-LOCATIONS AND DISTANCES:
-
 A B 2
 A E 2
 A W 1
 B D 5
-B w 4
+B W 4
 B C 2
 B F 3
 C F 7
@@ -26,13 +23,13 @@ I K 5
 J O 3
 J L 2
 L N 4
-N O 1
-O P 1
 M N 5
 M Z 3
 M X 1
-Z N 6
-X Z 2
-Y X 5
+N O 1
+O P 1
 R S 4
 S V 2
+X Z 2
+Y X 5
+Z N 6
